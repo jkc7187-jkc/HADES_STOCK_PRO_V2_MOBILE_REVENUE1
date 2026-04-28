@@ -1,0 +1,19 @@
+HADES STOCK PRO V3 배포 체크리스트
+
+[ ] ZIP 압축 해제
+[ ] package.json 확인
+[ ] src/main.jsx 확인
+[ ] public/manifest.webmanifest 확인
+[ ] GitHub 저장소 생성
+[ ] 파일 전체 업로드
+[ ] Vercel 프로젝트 생성
+[ ] Build Command = npm run build
+[ ] Output Directory = dist
+[ ] Deploy 성공 확인
+[ ] 휴대폰 접속 확인
+[ ] 홈화면 추가 테스트
+[ ] 데모 로그인 테스트
+[ ] PRO/VIP 잠금 화면 테스트
+[ ] 관리자 계정 테스트(admin@hades.pro)
+[ ] 면책 고지 확인
+[ ] 실제 API 연결 전에는 DEMO 모드로 운영
